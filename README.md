@@ -1,6 +1,6 @@
 # 💳 Credit Card Fraud Detection
 
-This project is part of my final year submission, focused on detecting fraudulent transactions using machine learning models such as Logistic Regression, Random Forest, XGBoost, CatBoost, LightGBM, and Neural Networks. The goal is to build a system that can effectively identify fraudulent transactions from a highly imbalanced dataset.
+This project is part of my final year submission, focused on detecting fraudulent transactions using machine learning models such as Logistic Regression, Random Forest, XGBoost, CatBoost, LightGBM. The goal is to build a system that can effectively identify fraudulent transactions from a highly imbalanced dataset.
 
 ---
 
@@ -56,7 +56,6 @@ Each model was evaluated on how well it detects fraudulent vs. non-fraudulent tr
 | XGBoost         | 94.80         | 84.00      | 89.07        | 99.93             |
 | CatBoost        | 95.10         | 85.34      | 89.94        | 99.94             |
 | LightGBM        | 94.67         | 83.99      | 88.93        | 99.92             |
-| Neural Network  | 91.23         | 79.30      | 84.80        | 99.87             |
 
 > 📌 Note: These are sample values — replace with your real results.
 
